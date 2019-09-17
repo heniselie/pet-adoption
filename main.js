@@ -12,30 +12,40 @@ const animals = [
       name: 'Jack',
       petType: 'dog',
       color: 'Color: Brown and White',
+      specialSkill: 'Imagine a baby tiger that will remain small,cute and not dangerous for the rest of its life. Yes, this Bengal cat looks like a baby tiger, if not cuter.',
+
     },
     {
       imageUrl: 'https://www.schleich-s.com/media/catalog/product/cache/17/small_image/600x/41ff4e9c985d00a9b9c6d7454ded3dd0/1/4/14525_main_v13_tp.jpg',
       name: 'Tyrannosaurus',
       petType: 'dino',
       color: 'Color: Green and Brown',
+      specialSkill: 'Imagine a baby tiger that will remain small,cute and not dangerous for the rest of its life. Yes, this Bengal cat looks like a baby tiger, if not cuter.',
+
     },
     {
       imageUrl: 'https://media.australianmuseum.net.au/media/dd/images/Some_image.width-1600.496365f.jpg',
       name: 'Archaeopteryx',
       petType: 'dino',
       color: 'Color: Green, Brown and Blue',
+      specialSkill: 'Imagine a baby tiger that will remain small,cute and not dangerous for the rest of its life. Yes, this Bengal cat looks like a baby tiger, if not cuter.',
+
      },
     {
       imageUrl: 'https://i.pinimg.com/originals/70/80/bc/7080bcdbead0d6ea823b9393721d0de3.jpg',
       name: 'Lucy',
       petType: 'cat',
       color: 'Color: Brown and White',
+      specialSkill: 'Imagine a baby tiger that will remain small,cute and not dangerous for the rest of its life. Yes, this Bengal cat looks like a baby tiger, if not cuter.',
+
     },
     {
       imageUrl: 'https://turntable.kagiso.io/images/Thor_the_cat_.width-800.jpg',
       name:'Sophie',
       petType: 'cat',
       color: 'Color: Black and Brown',
+      specialSkill: 'Imagine a baby tiger that will remain small,cute and not dangerous for the rest of its life. Yes, this Bengal cat looks like a baby tiger, if not cuter.',
+
    
     },
   
@@ -44,6 +54,8 @@ const animals = [
       name:'Siberian Tiger',
       petType: 'tiger',
       color: 'Color: Black Golden and White',
+      specialSkill: 'Imagine a baby tiger that will remain small,cute and not dangerous for the rest of its life. Yes, this Bengal cat looks like a baby tiger, if not cuter.',
+
    
     },
   ];
