@@ -50,7 +50,7 @@ const animals = [
     },
   
     {
-      imageUrl: 'http://www.tigersincrisis.com/wp-content/uploads/2014/01/siberian_tiger_1.jpg',
+      imageUrl: 'http://image5.sixthtone.com/image/5/3/473.jpg',
       name:'Siberian Tiger',
       petType: 'tiger',
       color: 'Color: Black Golden and White',
